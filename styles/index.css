@@ -801,12 +801,12 @@ footer .socials img {
 
     .standard-picture-image {
         width: 300px;
-        margin-right: 30px;
+        margin-right: 0;
     }
 
     .standard-picture-image img {
         width: 300px;
-        margin-right: 30px;
+        padding: 10px;
     }
 
     .tab-content {
@@ -1028,8 +1028,25 @@ footer .socials img {
         margin-bottom: 10px;
     }
 
+    .standard-picture-text {
+        margin: 0 0 0 20px;
+        font-size: 20px;
+    }
+
+    .standard-picture-image img {
+        width: 100px;
+        padding: 10px;
+    }
+
+    .standard-picture-image {
+        width: 100px;
+        margin-right: 0;
+        height: 100px;
+    }
+
     .standard-picture-text p {
         font-size: 14px;
+        margin: 0 50px 20px 0;
     }
 
     .texto p {
